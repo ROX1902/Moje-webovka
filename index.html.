@@ -25,7 +25,7 @@ WEBSIDE
 weight="30%" height="30%" />
 
 <style>button {
-    border: 1cm;
+    border: 10cm;
     color: blue;
     padding: 15px 32px;
     text-align: center;
